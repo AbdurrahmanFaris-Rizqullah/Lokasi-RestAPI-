@@ -1,5 +1,3 @@
-Berikut adalah contoh *README* untuk menjalankan aplikasi Lokasi API:
-
 ---
 
 # Lokasi API
@@ -103,10 +101,4 @@ json
 - *Swagger UI*: Tool untuk mendokumentasikan dan menguji API
 - *Nodemon*: Tool untuk development yang me-reload otomatis saat ada perubahan pada file
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
-
 ---
-
-README ini memberikan instruksi jelas tentang cara menjalankan aplikasi dan cara menggunakan Swagger UI untuk menguji API.
