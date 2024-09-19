@@ -1,6 +1,4 @@
----
-
-# Lokasi API
+# Lokasi-RestAPI
 
 *Versi*: 1.0.0  
 *API*: Untuk mengelola lokasi
